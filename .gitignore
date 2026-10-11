@@ -1,0 +1,8 @@
+# Never commit secrets (Slack webhook) or local environments, anywhere in the repo
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

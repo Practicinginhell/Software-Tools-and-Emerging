@@ -1,0 +1,13 @@
+# Tested with Python 3.12
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+xgboost==3.4.1
+shap==0.52.0
+matplotlib==3.11.2
+seaborn==0.13.2
+python-dotenv==1.2.4
+requests==2.34.2
+jupyter==1.1.1
+nbconvert==7.17.1
+ipykernel==7.4.0
